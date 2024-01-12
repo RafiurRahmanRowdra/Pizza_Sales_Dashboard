@@ -1,0 +1,20 @@
+KPIs:
+
+
+Total Revenue (How much money did we make this year?)
+Average Order Value
+Total Pizzas Sold
+Total Orders
+Average Pizzas per Order
+
+
+QUESTIONS TO ANSWER:
+
+
+Daily Trends for Total Orders
+Hourly Trend for Total Orders
+Percentage of Sales by Pizza Category
+Percentage of Sales by Pizza Size
+Total Pizzas Sold by Pizza Category
+Top 5 Best Sellers by Total Pizzas Sold
+Bottom 5 Worst Sellers by Total Pizzas Sold            
